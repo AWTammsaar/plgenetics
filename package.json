@@ -1,0 +1,35 @@
+{
+  "name": "plgenetics",
+  "version": "1.0.0",
+  "description": "The Genetics of Programming Languages",
+  "main": "collector.js",
+  "scripts": {
+    "test": "node collector.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "Genetic",
+    "Tree",
+    "History",
+    "of",
+    "Programming",
+    "Inspiration",
+    "Data",
+    "Visualization",
+    "Wikipedia"
+  ],
+  "author": "Al William Tammsaar",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "graphlib": "^2.1.1",
+    "html-to-json": "^0.6.0",
+    "jsonfile": "^4.0.0",
+    "node-wikipedia": "0.0.2",
+    "querystring": "^0.2.0"
+  }
+}

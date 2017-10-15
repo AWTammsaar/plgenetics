@@ -1,0 +1,519 @@
+{
+  "Rust_(programming_language)": [
+    "Alef_(programming_language)",
+    "C_Sharp_(programming_language)",
+    "C++",
+    "Cyclone_(programming_language)",
+    "Erlang_(programming_language)",
+    "Haskell_(programming_language)",
+    "Hermes_(programming_language)",
+    "Limbo_(programming_language)",
+    "Newsqueak",
+    "NIL_(programming_language)",
+    "Ocaml",
+    "Ruby_(programming_language)",
+    "Scheme_(programming_language)",
+    "Standard_ML",
+    "Swift_(programming_language)"
+  ],
+  "Python_(programming_language)": [
+    "ABC_(programming_language)",
+    "ALGOL_68",
+    "C_(programming_language)",
+    "C++",
+    "Dylan_(programming_language)",
+    "Haskell_(programming_language)",
+    "Icon_(programming_language)",
+    "Java_(programming_language)",
+    "Lisp_(programming_language)",
+    "Modula-3",
+    "Perl"
+  ],
+  "Java_(programming_language)": [
+    "Ada_(programming_language)",
+    "C++",
+    "C_Sharp_(programming_language)",
+    "Eiffel_(programming_language)",
+    "Generic_Java",
+    "Mesa_(programming_language)",
+    "Modula-3",
+    "Oberon_(programming_language)",
+    "Objective-C",
+    "UCSD_Pascal",
+    "Object_Pascal"
+  ],
+  "Javascript": [
+    "Lua_(programming_language)",
+    "Scheme_(programming_language)",
+    "Perl",
+    "Self_(programming_language)",
+    "Java_(programming_language)",
+    "C_(programming_language)",
+    "Python_(programming_language)",
+    "AWK",
+    "HyperTalk"
+  ],
+  "Alef_(programming_language)": [
+    "C_(programming_language)",
+    "Newsqueak"
+  ],
+  "Newsqueak": [
+    "C_(programming_language)",
+    "Communicating_sequential_processes"
+  ],
+  "Hermes_(programming_language)": [],
+  "Cyclone_(programming_language)": [
+    "C_(programming_language)"
+  ],
+  "NIL_(programming_language)": [],
+  "Ocaml": [
+    "Caml",
+    "Cool_(programming_language)",
+    "Standard_ML"
+  ],
+  "Standard_ML": [
+    "ML_programming_language",
+    "Hope_(programming_language)"
+  ],
+  "ABC_(programming_language)": [
+    "SETL",
+    "ALGOL_68"
+  ],
+  "Icon_(programming_language)": [
+    "SNOBOL",
+    "ALGOL"
+  ],
+  "Scheme_(programming_language)": [],
+  "Dylan_(programming_language)": [
+    "Common_Lisp_Object_System",
+    "ALGOL",
+    "Scheme_(programming_language)",
+    "EuLisp"
+  ],
+  "Limbo_(programming_language)": [
+    "C_(programming_language)",
+    "Pascal_(programming_language)",
+    "Communicating_sequential_processes",
+    "Alef_(programming_language)",
+    "Newsqueak"
+  ],
+  "Mesa_(programming_language)": [
+    "ALGOL"
+  ],
+  "Oberon_(programming_language)": [
+    "Modula-2"
+  ],
+  "C_Sharp_(programming_language)": [
+    "C++",
+    "Eiffel_(programming_language)",
+    "Java_(programming_language)",
+    "Modula-3",
+    "Object_Pascal",
+    "ML_(programming_language)",
+    "Visual_Basic",
+    "Icon_(programming_language)",
+    "Haskell_(programming_language)",
+    "Rust_(programming_language)",
+    "J_Sharp",
+    "Cω",
+    "F_Sharp_(programming_language)",
+    "Visual_J++"
+  ],
+  "Swift_(programming_language)": [
+    "C_Sharp_(programming_language)",
+    "CLU_(programming_language)",
+    "D_(programming_language)",
+    "Haskell_(programming_language)",
+    "Objective-C",
+    "Python_(programming_language)",
+    "Ruby_(programming_language)",
+    "Rust_(programming_language)"
+  ],
+  "Generic_Java": [],
+  "Caml": [
+    "ML_(programming_language)"
+  ],
+  "Modula-3": [
+    "Modula-2+",
+    "Modula-2",
+    "Pascal_(programming_language)",
+    "ALGOL",
+    "Oberon_(programming_language)"
+  ],
+  "Cool_(programming_language)": [
+    "Sather",
+    "Java_(programming_language)",
+    "ML_(programming_language)",
+    "Pascal_(programming_language)"
+  ],
+  "HyperTalk": [
+    "Natural_language_programming",
+    "Pascal_(programming_language)"
+  ],
+  "Self_(programming_language)": [
+    "Smalltalk"
+  ],
+  "SETL": [
+    "ALGOL_60"
+  ],
+  "UCSD_Pascal": [],
+  "Modula-2+": [
+    "Pascal_(programming_language)",
+    "ALGOL",
+    "Modula-2"
+  ],
+  "AWK": [
+    "C_(programming_language)",
+    "SNOBOL",
+    "Bourne_shell"
+  ],
+  "Hope_(programming_language)": [],
+  "ML_programming_language": [
+    "ISWIM"
+  ],
+  "Eiffel_(programming_language)": [
+    "Ada_(programming_language)",
+    "Simula",
+    "Z_notation"
+  ],
+  "Object_Pascal": [
+    "Pascal_(programming_language)",
+    "Simula",
+    "Smalltalk"
+  ],
+  "ALGOL": [],
+  "Ruby_(programming_language)": [
+    "Ada_(programming_language)",
+    "C++",
+    "CLU_(programming_language)",
+    "Dylan_(programming_language)",
+    "Eiffel_(programming_language)",
+    "Lisp_(programming_language)",
+    "Lua_(programming_language)",
+    "Perl",
+    "Python_(programming_language)",
+    "Smalltalk"
+  ],
+  "Haskell_(programming_language)": [
+    "Scheme_(programming_language)",
+    "SISAL"
+  ],
+  "Visual_J++": [],
+  "ML_(programming_language)": [
+    "ISWIM"
+  ],
+  "Cω": [
+    "C_Sharp_(programming_language)",
+    "Polyphonic_C_sharp"
+  ],
+  "Natural_language_programming": [],
+  "Erlang_(programming_language)": [
+    "Prolog",
+    "Smalltalk",
+    "PLEX_(programming_language)",
+    "LISP"
+  ],
+  "C_(programming_language)": [
+    "B_(programming_language)",
+    "BCPL",
+    "CPL_(programming_language)",
+    "ALGOL_68",
+    "Assembly_language",
+    "PL/I",
+    "FORTRAN"
+  ],
+  "Lisp_(programming_language)": [
+    "Information_Processing_Language"
+  ],
+  "SNOBOL": [],
+  "Modula-2": [
+    "Modula",
+    "Mesa_(programming_language)",
+    "Pascal_(programming_language)",
+    "Algol-W"
+  ],
+  "ISWIM": [
+    "ALGOL_60",
+    "Lisp_(programming_language)"
+  ],
+  "CLU_(programming_language)": [
+    "ALGOL_60",
+    "Lisp_(programming_language)",
+    "Simula"
+  ],
+  "Modula": [
+    "Pascal_(programming_language)"
+  ],
+  "ALGOL_68": [
+    "ALGOL_60",
+    "ALGOL_Y"
+  ],
+  "Polyphonic_C_sharp": [
+    "C_Sharp_(programming_language)",
+    "Join_calculus"
+  ],
+  "Pascal_(programming_language)": [
+    "ALGOL_W"
+  ],
+  "Simula": [
+    "ALGOL_60"
+  ],
+  "Ada_(programming_language)": [
+    "ALGOL_68",
+    "Pascal_(programming_language)",
+    "C++",
+    "Smalltalk",
+    "Java_(programming_language)",
+    "Eiffel_(programming_language)"
+  ],
+  "F_Sharp_(programming_language)": [
+    "C_Sharp_(programming_language)",
+    "Erlang_(programming_language)",
+    "Haskell_(programming_language)",
+    "ML_(programming_language)",
+    "OCaml",
+    "Python_(programming_language)",
+    "Scala_(programming_language)"
+  ],
+  "Algol-W": [
+    "ALGOL_60"
+  ],
+  "Perl": [
+    "AWK_(programming_language)",
+    "C_(programming_language)",
+    "C++",
+    "Lisp_(programming_language)",
+    "Pascal_(programming_language)",
+    "Sed",
+    "Smalltalk_80",
+    "Unix_shell"
+  ],
+  "SISAL": [
+    "Pascal_(programming_language)",
+    "C_(programming_language)",
+    "Fortran"
+  ],
+  "Bourne_shell": [],
+  "Communicating_sequential_processes": [],
+  "ALGOL_Y": [],
+  "Objective-C": [
+    "C_(programming_language)",
+    "Smalltalk"
+  ],
+  "C++": [
+    "Ada_(programming_language)",
+    "ALGOL_68",
+    "C_(programming_language)",
+    "CLU_(programming_language)",
+    "ML_(programming_language)",
+    "Simula",
+    "Python_(programming_language)"
+  ],
+  "CPL_(programming_language)": [
+    "ALGOL_60"
+  ],
+  "Sather": [
+    "Eiffel_(programming_language)",
+    "CLU_(programming_language)",
+    "Common_Lisp",
+    "Scheme_(programming_language)"
+  ],
+  "Lua_(programming_language)": [
+    "C++",
+    "CLU_(programming_language)",
+    "Modula-2",
+    "Scheme_(programming_language)",
+    "SNOBOL"
+  ],
+  "Visual_Basic": [
+    "BASIC"
+  ],
+  "Smalltalk": [
+    "Lisp_(programming_language)",
+    "Simula",
+    "Euler_(programming_language)",
+    "IMP_(programming_language)",
+    "Planner_(programming_language)",
+    "Logo_(programming_language)",
+    "Sketchpad",
+    "ARPAnet",
+    "Burroughs_B5000",
+    "Cell_(biology)"
+  ],
+  "EuLisp": [
+    "Common_Lisp",
+    "InterLisp",
+    "LeLisp",
+    "Scheme_(programming_language)",
+    "T_(programming_language)",
+    "Common_Lisp_Object_System",
+    "ObjVlisp",
+    "Oaklisp",
+    "Standard_ML",
+    "Haskell_(programming_language)"
+  ],
+  "J_Sharp": [
+    "Java_(programming_language)",
+    "Visual_J++"
+  ],
+  "BCPL": [
+    "CPL_(programming_language)"
+  ],
+  "D_(programming_language)": [
+    "C_(programming_language)",
+    "C++",
+    "C_Sharp_(programming_language)",
+    "Eiffel_(programming_language)",
+    "Java_(programming_language)",
+    "Python_(programming_language)"
+  ],
+  "Z_notation": [],
+  "ALGOL_60": [
+    "ALGOL_58"
+  ],
+  "Join_calculus": [],
+  "Common_Lisp_Object_System": [],
+  "InterLisp": [],
+  "Oaklisp": [
+    "Scheme_(programming_language)",
+    "T_programming_language",
+    "Smalltalk"
+  ],
+  "Sed": [
+    "Ed_(text_editor)"
+  ],
+  "B_(programming_language)": [
+    "BCPL",
+    "PL/I"
+  ],
+  "LeLisp": [],
+  "Sketchpad": [],
+  "Euler_(programming_language)": [
+    "ALGOL_60"
+  ],
+  "Planner_(programming_language)": [],
+  "AWK_(programming_language)": [
+    "C_(programming_language)",
+    "SNOBOL",
+    "Bourne_shell"
+  ],
+  "IMP_(programming_language)": [],
+  "ALGOL_58": [],
+  "Assembly_language": [],
+  "Unix_shell": [],
+  "T_programming_language": [
+    "Scheme_(programming_language)"
+  ],
+  "BASIC": [],
+  "ALGOL_W": [
+    "ALGOL_60"
+  ],
+  "Logo_(programming_language)": [
+    "Lisp_programming_language"
+  ],
+  "PL/I": [
+    "COBOL",
+    "Fortran",
+    "ALGOL"
+  ],
+  "Information_Processing_Language": [],
+  "LISP": [
+    "Information_Processing_Language"
+  ],
+  "ObjVlisp": [],
+  "T_(programming_language)": [
+    "Scheme_(programming_language)"
+  ],
+  "Smalltalk_80": [
+    "Lisp_(programming_language)",
+    "Simula",
+    "Euler_(programming_language)",
+    "IMP_(programming_language)",
+    "Planner_(programming_language)",
+    "Logo_(programming_language)",
+    "Sketchpad",
+    "ARPAnet",
+    "Burroughs_B5000",
+    "Cell_(biology)"
+  ],
+  "Burroughs_B5000": [],
+  "FORTRAN": [
+    "Speedcoding"
+  ],
+  "Prolog": [
+    "PLANNER"
+  ],
+  "Cell_(biology)": [],
+  "OCaml": [
+    "Caml",
+    "Cool_(programming_language)",
+    "Standard_ML"
+  ],
+  "Speedcoding": [
+    "Assembly_language",
+    "Machine_code"
+  ],
+  "Fortran": [
+    "Speedcoding"
+  ],
+  "ARPAnet": [],
+  "Machine_code": [],
+  "PLANNER": [],
+  "Scala_(programming_language)": [
+    "Eiffel_(programming_language)",
+    "Erlang_(programming_language)",
+    "Haskell_(programming_language)",
+    "Java_(programming_language)",
+    "Lisp_(programming_language)",
+    "Pizza_(programming_language)",
+    "Standard_ML",
+    "OCaml",
+    "Scheme_(programming_language)",
+    "Smalltalk",
+    "Oz_(programming_language)"
+  ],
+  "Lisp_programming_language": [
+    "Information_Processing_Language"
+  ],
+  "Ed_(text_editor)": [],
+  "Pizza_(programming_language)": [
+    "Java_(programming_language)"
+  ],
+  "Oz_(programming_language)": [
+    "Erlang_(programming_language)",
+    "Lisp_(programming_language)",
+    "Prolog"
+  ],
+  "COBOL": [
+    "AIMACO",
+    "C++",
+    "COMTRAN",
+    "Eiffel_(programming_language)",
+    "FACT_computer_language",
+    "FLOW-MATIC",
+    "Smalltalk"
+  ],
+  "AIMACO": [
+    "FLOW-MATIC",
+    "COMTRAN"
+  ],
+  "FACT_computer_language": [],
+  "FLOW-MATIC": [
+    "ARITH-MATIC"
+  ],
+  "COMTRAN": [
+    "FLOW-MATIC"
+  ],
+  "Common_Lisp": [
+    "Lisp_(programming_language)",
+    "Lisp_Machine_Lisp",
+    "Maclisp",
+    "Scheme_(programming_language)",
+    "Interlisp"
+  ],
+  "ARITH-MATIC": [],
+  "Maclisp": [],
+  "Interlisp": [],
+  "Lisp_Machine_Lisp": [],
+  "PLEX_(programming_language)": []
+}
